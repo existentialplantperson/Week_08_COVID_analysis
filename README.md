@@ -1,4 +1,4 @@
-# Week_08_COVID_analysis
+## Week 08 Exploratory Data Analysis Project
 
 Project specifications:
 
