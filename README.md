@@ -47,3 +47,9 @@ https://documenter.getpostman.com/view/10808728/SzS8rjbc#b07f97ba-24f4-4ebe-ad71
 https://api.covid19api.com/dayone/country/united-states?province=delaware
 https://api.covid19api.com/countries
 
+GIT
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+https://stackoverflow.com/questions/13445241/replacing-blank-values-white-space-with-nan-in-pandas
+
+https://pandas.pydata.org/docs/reference/api/pandas.Series.str.contains.html
